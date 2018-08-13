@@ -9,7 +9,7 @@ TPs de Organización del computador II - 2 cuatrimestre 2017 universidad de Buen
 # TP3
 -   Se monta un sistema operativo utilizando bochs y se lo usa para crear un "juego" de dos personas en donde las jugadas se realizan por medio de interrupciones.
 
-# Authors
+# Autores
 
 * Arroyo Luis Alberto - [repository](https://github.com/crusadesoflouis)
 * Carlos Humpiri -      [repository](https://github.com/snayder15)
